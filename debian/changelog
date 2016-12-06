@@ -1,0 +1,9 @@
+ros-kinetic-hls-lfcd-lds-driver (0.1.1-0wily) wily; urgency=high
+
+  * modified the package name and related codes
+  * added a ROS package for HLDS Laser Distance Sensor
+  * Contributors: JH Yang, SP Kong, Pyo
+
+ -- Pyo <pyo@robotis.com>  Mon, 05 Dec 2016 15:00:00 -0000
+
+
